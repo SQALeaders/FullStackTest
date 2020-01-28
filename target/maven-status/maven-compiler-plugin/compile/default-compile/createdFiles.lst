@@ -1,0 +1,11 @@
+TestCasesTest\BaseClass.class
+UtilTest\ScreenShotTest.class
+PagesTest\BrowserFactory.class
+TestCasesTest\VerifySearch.class
+PagesTest\LoginPage.class
+TestCasesTest\VerifyPageTitle.class
+UtilTest\ListenerTest.class
+PagesTest\GooglePage.class
+UtilTest\Fakerdata.class
+TestCasesTest\VerifyLogo.class
+UtilTest\ReadConfigTest.class

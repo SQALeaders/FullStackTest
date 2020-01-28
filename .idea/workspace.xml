@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df486c89-fa27-4260-b998-85a7b6429669" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="$PROJECT_DIR$/testng.xml" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VikfOLKUpJ09R1ozj5NR4PUMtE" />
+  <component name="PropertiesComponent">
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sivasothywaran\IdeaProjects" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestCasesTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sivasothywaran\IdeaProjects\FullStackTest\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/sivasothywaran/IdeaProjects/FullStackTest/testng.xml">
+    <configuration name="C:/Users/sivasothywaran/IdeaProjects/FullStackTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyInvalidLogin" type="TestNG" nameIsGenerated="true">
+      <module name="FullStackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCasesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestCasesTest" />
+      <option name="MAIN_CLASS_NAME" value="TestCasesTest.VerifyInvalidLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.SuiteHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCasesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCasesTest" />
+      <option name="MAIN_CLASS_NAME" value="TestCasesTest.VerifyLogo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyPageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCasesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCasesTest" />
+      <option name="MAIN_CLASS_NAME" value="TestCasesTest.VerifyPageTitle" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyPageTitle.VerifyPT" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCasesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCasesTest" />
+      <option name="MAIN_CLASS_NAME" value="TestCasesTest.VerifyPageTitle" />
+      <option name="METHOD_NAME" value="VerifyPT" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifySearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FullStackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCasesTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCasesTest" />
+      <option name="MAIN_CLASS_NAME" value="TestCasesTest.VerifySearch" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.VerifyInvalidLogin" />
+      <item itemvalue="TestNG.C:/Users/sivasothywaran/IdeaProjects/FullStackTest/testng.xml" />
+      <item itemvalue="TestNG.VerifyPageTitle.VerifyPT" />
+      <item itemvalue="TestNG.VerifyLogo" />
+      <item itemvalue="TestNG.VerifySearch" />
+      <item itemvalue="TestNG.VerifyPageTitle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/sivasothywaran/IdeaProjects/FullStackTest/testng.xml" />
+        <item itemvalue="TestNG.VerifyPageTitle" />
+        <item itemvalue="TestNG.VerifySearch" />
+        <item itemvalue="TestNG.VerifyPageTitle.VerifyPT" />
+        <item itemvalue="TestNG.VerifyLogo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df486c89-fa27-4260-b998-85a7b6429669" name="Default Changelist" comment="" />
+      <created>1577743405531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577743405531</updated>
+    </task>
+    <servers />
+  </component>
+</project>

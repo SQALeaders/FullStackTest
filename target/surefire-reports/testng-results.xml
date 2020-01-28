@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="110130" started-at="2020-01-08T22:05:17 EST" finished-at="2020-01-08T22:07:07 EST">
+    <groups>
+    </groups>
+    <test name="Chrome" duration-ms="110130" started-at="2020-01-08T22:05:17 EST" finished-at="2020-01-08T22:07:07 EST">
+      <class name="TestCasesTest.VerifySearch">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:TestCasesTest.VerifySearch@1e127982]" name="setup" is-config="true" duration-ms="19739" started-at="2020-01-08T22:06:28 EST" finished-at="2020-01-08T22:06:48 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchTest()[pri:0, instance:TestCasesTest.VerifySearch@1e127982]" name="SearchTest" duration-ms="18973" started-at="2020-01-08T22:06:48 EST" finished-at="2020-01-08T22:07:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="ScreenShot(org.testng.ITestResult)[pri:0, instance:TestCasesTest.VerifySearch@1e127982]" name="ScreenShot" is-config="true" duration-ms="0" started-at="2020-01-08T22:07:07 EST" finished-at="2020-01-08T22:07:07 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchTest status=SUCCESS method=VerifySearch.SearchTest()[pri:0, instance:TestCasesTest.VerifySearch@1e127982] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestCasesTest.VerifySearch@1e127982]" name="TearDown" is-config="true" duration-ms="711" started-at="2020-01-08T22:07:07 EST" finished-at="2020-01-08T22:07:07 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCasesTest.VerifySearch -->
+      <class name="TestCasesTest.VerifyLogo">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:TestCasesTest.VerifyLogo@7e0b0338]" name="setup" is-config="true" duration-ms="20109" started-at="2020-01-08T22:05:17 EST" finished-at="2020-01-08T22:05:37 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VLogo()[pri:0, instance:TestCasesTest.VerifyLogo@7e0b0338]" name="VLogo" duration-ms="20053" started-at="2020-01-08T22:05:37 EST" finished-at="2020-01-08T22:05:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VLogo -->
+        <test-method status="PASS" signature="ScreenShot(org.testng.ITestResult)[pri:0, instance:TestCasesTest.VerifyLogo@7e0b0338]" name="ScreenShot" is-config="true" duration-ms="1" started-at="2020-01-08T22:05:57 EST" finished-at="2020-01-08T22:05:57 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VLogo status=SUCCESS method=VerifyLogo.VLogo()[pri:0, instance:TestCasesTest.VerifyLogo@7e0b0338] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestCasesTest.VerifyLogo@7e0b0338]" name="TearDown" is-config="true" duration-ms="0" started-at="2020-01-08T22:05:57 EST" finished-at="2020-01-08T22:05:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCasesTest.VerifyLogo -->
+      <class name="TestCasesTest.VerifyPageTitle">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:TestCasesTest.VerifyPageTitle@617faa95]" name="setup" is-config="true" duration-ms="19857" started-at="2020-01-08T22:05:57 EST" finished-at="2020-01-08T22:06:17 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyPT()[pri:0, instance:TestCasesTest.VerifyPageTitle@617faa95]" name="VerifyPT" duration-ms="10021" started-at="2020-01-08T22:06:17 EST" finished-at="2020-01-08T22:06:27 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPT -->
+        <test-method status="PASS" signature="ScreenShot(org.testng.ITestResult)[pri:0, instance:TestCasesTest.VerifyPageTitle@617faa95]" name="ScreenShot" is-config="true" duration-ms="0" started-at="2020-01-08T22:06:27 EST" finished-at="2020-01-08T22:06:27 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyPT status=SUCCESS method=VerifyPageTitle.VerifyPT()[pri:0, instance:TestCasesTest.VerifyPageTitle@617faa95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShot -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:TestCasesTest.VerifyPageTitle@617faa95]" name="TearDown" is-config="true" duration-ms="649" started-at="2020-01-08T22:06:27 EST" finished-at="2020-01-08T22:06:28 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCasesTest.VerifyPageTitle -->
+    </test> <!-- Chrome -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

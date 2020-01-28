@@ -1,0 +1,14 @@
+ChromeDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\chromedriver.exe
+
+IEDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\IEDriverServer.exe
+
+FirefoxDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\geckodriver.exe
+
+EdgeDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\msedgedriver.exe
+
+SafariDriver=
+
+ExcelFile
+
+URL=https://www.facebook.com/
+

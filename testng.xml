@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests">
+<listeners>
+    <listener class-name="UtilTest.ListenerTest">
+    </listener>
+</listeners>
+<test name = "Chrome">
+    <parameter name = "OBrowser" value="chrome" />
+    <classes>
+        <class name="TestCasesTest.VerifyLogo"></class>
+        <class name="TestCasesTest.VerifyPageTitle"></class>
+        <class name="TestCasesTest.VerifySearch"></class>
+        <class name="TestCasesTest.VerifySerchresults"></class>
+    </classes>
+</test>
+<test name = "Firefox">
+    <parameter name = "OBrowser" value="firefox" />
+    <classes>
+        <class name="TestCasesTest.VerifyLogo"></class>
+        <class name="TestCasesTest.VerifyPageTitle"></class>
+        <class name="TestCasesTest.VerifySearch"></class>
+        <class name="TestCasesTest.VerifySerchresults"></class>
+    </classes>
+</test>
+</suite>
