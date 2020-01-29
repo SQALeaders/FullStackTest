@@ -1,13 +1,10 @@
-ChromeDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\chromedriver.exe
+ChromeDriver=C:\\Users\\sivasothywaran\\IdeaProjects\\FullStackTest\\Driver\\chromedriver.exe
+IEDriver=C:\\Users\\sivasothywaran\\IdeaProjects\\FullStackTest\\Driver\\IEDriverServer.exe
 
-IEDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\IEDriverServer.exe
+FirefoxDriver=C:\\Users\\sivasothywaran\\IdeaProjects\\FullStackTest\\Driver\\geckodriver.exe
 
-FirefoxDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\geckodriver.exe
-
-EdgeDriver=C:\\Users\\sivasothywaran\\Desktop\\SQA\\Selenium testing\\Driver\\msedgedriver.exe
-
+EdgeDriver=C:\\Users\\sivasothywaran\\IdeaProjects\\FullStackTest\\Driver\\msedgedriver.exe
 SafariDriver=
 
 ExcelFile
 URL=https://www.google.ca/
-Browser=Chrome

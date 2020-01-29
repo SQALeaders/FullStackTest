@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
       <run-configuration type="TestNG" name="$PROJECT_DIR$/testng.xml" />
@@ -30,21 +33,22 @@
   <component name="ProjectId" id="1VikfOLKUpJ09R1ozj5NR4PUMtE" />
   <component name="PropertiesComponent">
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sivasothywaran\IdeaProjects" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sivasothywaran\IdeaProjects\FullStackTest\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="TestCasesTest" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sivasothywaran\IdeaProjects\FullStackTest\src" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sivasothywaran\IdeaProjects\FullStackTest\Driver" />
+      <recent name="C:\Users\sivasothywaran\IdeaProjects" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -198,5 +202,16 @@
       <updated>1577743405531</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
